@@ -1,0 +1,45 @@
+
+<!-- ============ CONTACT ============ -->
+<section class="contact-section" id="contact">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div>
+        <div class="eyebrow">Contact</div>
+        <h2>Let's work together</h2>
+      </div>
+      <p>Have a project in mind? Reach out and let's create something exceptional.</p>
+    </div>
+    
+    <div class="contact-grid-form reveal">
+      <form class="contact-form" action="https://formspree.io/f/your-id" method="POST">
+        <div class="form-group">
+          <label for="name">Full Name</label>
+          <input type="text" id="name" name="name" placeholder="Enter your name" required>
+        </div>
+        <div class="form-group">
+          <label for="email">Email Address</label>
+          <input type="email" id="email" name="email" placeholder="Enter your email" required>
+        </div>
+        <div class="form-group">
+          <label for="subject">Subject</label>
+          <input type="text" id="subject" name="subject" placeholder="Project type">
+        </div>
+        <div class="form-group">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="5" placeholder="Tell me about your project" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-solid" style="border:none; cursor:pointer; width:fit-content;">Send Message</button>
+      </form>
+      
+      <div class="contact-info-box">
+        <h3>Project Inquiry</h3>
+        <p>I am currently available for freelance brand identity, packaging, and print design projects. Let's discuss how we can bring your vision to life.</p>
+        <div class="contact-methods">
+          <div class="method"><span>Email:</span> <strong>ioliseh@gmail.com</strong></div>
+          <div class="method"><span>Phone:</span> <strong>+234 806 134 9287</strong></div>
+          <div class="method"><span>Location:</span> <strong>Lagos, Nigeria</strong></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
